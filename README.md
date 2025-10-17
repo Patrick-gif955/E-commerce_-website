@@ -35,6 +35,8 @@ bracelet-website/
 ├── style.css
 └── images/
 
+You can view the live version of this project here:  
+[Bracelet Website Live]()
 Author
 
 Patrick Newton Ezurike
