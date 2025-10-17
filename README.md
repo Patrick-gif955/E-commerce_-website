@@ -36,9 +36,4 @@ bracelet-website/
 └── images/
 
 You can view the live version of this project here:  
-[Bracelet Landing Page Live]( https://patrick-gif955.github.io/bracelet-website/)
-Author
-
-Patrick Newton Ezurike
-Front-End Developer
-Focused on creating beautiful, structured, and responsive interfaces using HTML, CSS, and JavaScript.
+[Bracelet Landing Page ]( https://patrick-gif955.github.io/bracelet-website/)
