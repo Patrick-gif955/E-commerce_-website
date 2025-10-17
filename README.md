@@ -1,6 +1,6 @@
-Bracelet Website
+Bracelet Landing Page
 
-Bracelet Website is a simple front-end jewelry showcase built with HTML and CSS.
+This landing page  is a simple front-end website built with HTML and CSS.
 It focuses on visual design and layout, presenting bracelet products in an elegant and minimal way. The project was created to practice building static pages with a clean structure and organized styling.
 
 About the Project
@@ -36,7 +36,7 @@ bracelet-website/
 └── images/
 
 You can view the live version of this project here:  
-[Bracelet Website Live]( https://patrick-gif955.github.io/bracelet-website/)
+[Bracelet Landing Page Live]( https://patrick-gif955.github.io/bracelet-website/)
 Author
 
 Patrick Newton Ezurike
