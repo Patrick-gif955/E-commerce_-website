@@ -1,4 +1,4 @@
-Bracelet Landing Page
+E-commerce Landing Page
 
 This landing page  is a simple front-end website built with HTML and CSS.
 It focuses on visual design and layout, presenting bracelet products in an elegant and minimal way. The project was created to practice building static pages with a clean structure and organized styling.
@@ -36,4 +36,4 @@ bracelet-website/
 └── images/
 
 You can view the live version of this project here:  
-[Bracelet Landing Page ]( https://patrick-gif955.github.io/bracelet-website/)
+[E-commerce website ]( https://patrick-gif955.github.io/bracelet-website/)
