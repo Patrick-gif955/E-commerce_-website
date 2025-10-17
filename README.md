@@ -36,7 +36,7 @@ bracelet-website/
 └── images/
 
 You can view the live version of this project here:  
-[Bracelet Website Live]()
+[Bracelet Website Live]( https://patrick-gif955.github.io/bracelet-website/)
 Author
 
 Patrick Newton Ezurike
